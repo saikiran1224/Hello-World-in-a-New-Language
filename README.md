@@ -1,4 +1,4 @@
-#MLH Local Hack Day:Build Day-1
+##MLH Local Hack Day:Build Day-1 Challenge
 This is a Repository containing the code of the Challenge named
 **Hello,World in a new Language**. Here I have used the Java Language to show Hello, World.
 
@@ -9,6 +9,4 @@ class HelloWorld {
       //Your code goes here
       System.out.println("Hello, World!");
   }
-}```
-
-I am very much Happy to learn a New Language by Completing these Challenges.
+} ```
